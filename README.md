@@ -70,7 +70,11 @@ Plataforma que permite a un usuario publicar artículos en subasta pública, con
 
 ## Estrategia de ramas y commits
 
-_(Se documentará una vez se aplique el flujo de trabajo con la primera rama)_
+Ya se aplicó el primer ciclo de trabajo con ramas (ver PR #1: `feature/primera-rama` → `main`).
+
+**Ramas:** el desarrollo se realiza en ramas de feature (`feature/<nombre>`) o de documentación (`docs/<nombre>`), nunca directo sobre `main`. Se integran mediante Pull Request.
+
+**Commits:** se sigue [Conventional Commits](https://www.conventionalcommits.org/) — `feat:`, `fix:`, `docs:`, `test:` — con mensajes descriptivos.
 
 ## Pruebas
 
