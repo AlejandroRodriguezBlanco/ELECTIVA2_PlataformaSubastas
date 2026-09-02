@@ -1,1 +1,0 @@
-{"version":3,"file":"ResultadoPuja.d.ts","sourceRoot":"","sources":["../../../src/domain/entities/ResultadoPuja.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,WAAW,CAAC;AAEjC,MAAM,MAAM,aAAa,GACrB;IAAE,OAAO,EAAE,IAAI,CAAC;IAAC,IAAI,EAAE,IAAI,CAAA;CAAE,GAC7B;IAAE,OAAO,EAAE,KAAK,CAAC;IAAC,MAAM,EAAE,MAAM,CAAA;CAAE,CAAC"}
